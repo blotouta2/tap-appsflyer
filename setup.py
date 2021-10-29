@@ -30,7 +30,7 @@ setup(
     packages=['tap_appsflyer'],
     package_data={
         'tap_appsflyer/schemas/': [
-            'installations.json',
+            'installs.json',
             'in_app_events.json',
             'organic_installs.json',
             'daily_report.json'
